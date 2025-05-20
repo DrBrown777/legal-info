@@ -19,7 +19,8 @@ All videos on this channel are created using original scripts and synthesized wi
 ## 🎶 Music sources:
 - Riffusion – https://www.riffusion.com/terms  
 - Suno – https://suno.com/terms  
-- Uppbeat – https://uppbeat.io/ *(used under commercial license)*  
+- Uppbeat – https://uppbeat.io/ *(used under commercial license)*
+- Epidemic Sound – https://www.epidemicsound.com/policy/personal-subscription-music-license/ *(used under commercial license)*   
 
 ## 🗣️ Voice synthesis:
 - ElevenLabs – https://elevenlabs.io/terms-of-use  
